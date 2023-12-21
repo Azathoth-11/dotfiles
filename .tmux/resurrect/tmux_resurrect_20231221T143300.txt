@@ -1,0 +1,7 @@
+pane	homework	1	0	:-	1	JustAPC	:/home/azathoth/100devs/assignments	1	nvim	:/tmp/.mount_nvimwrJRsn/usr/bin/nvim
+pane	homework	2	0	:M	1	JustAPC	:/home/azathoth/100devs/assignments	1	zsh	:
+pane	homework	3	1	:*	1	JustAPC	:/home/azathoth	1	zsh	:
+window	homework	1	:code	0	:-	ccbd,156x38,0,0,0	off
+window	homework	2	:terminal	0	:M	ccbe,156x38,0,0,1	off
+window	homework	3	:zsh	1	:*	ccc1,156x38,0,0,4	:
+state	homework	
